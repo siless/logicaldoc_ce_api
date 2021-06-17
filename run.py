@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 import sys
-
 from src import save, restore
+
 
 if __name__ == '__main__':
     if sys.argv.__len__() == 1:

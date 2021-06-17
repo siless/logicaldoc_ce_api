@@ -1,0 +1,5 @@
+log/logicaldoc.log
+data/
+Pipfile
+Pipfile.lock
+.idea
